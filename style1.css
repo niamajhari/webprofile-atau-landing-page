@@ -17,7 +17,7 @@
     
         .jumbotron {
             background-color: #A6282E;
-           
+            margin-top: 5%;
 
 
         }
@@ -31,7 +31,7 @@
                 color: #CFA763;
             }
         .about .card-body{
-            background-color: #CFA763;
+            background-color: #A6282E;
         }
      
          /* RUte */
