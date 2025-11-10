@@ -1,0 +1,99 @@
+         /* body */
+         .body{
+            background-color: #A6282E;
+         }
+         
+         
+         /* navbar */
+         .navbar{
+            background-color:#000000;
+         }
+
+        .navbar .nav-link:hover {
+            color: #CFA763 !important; /* Contoh: teal */
+        }
+        
+        /* jumbotron */
+    
+        .jumbotron {
+            background-color: #A6282E;
+           
+
+
+        }
+        /* about */
+        .about{
+            color: #F6F1E7;
+            background-color: #A6282E;
+            padding-top: 20%;
+        }
+        .about span  {
+                color: #CFA763;
+            }
+        .about .card-body{
+            background-color: #CFA763;
+        }
+     
+         /* RUte */
+        .rute{
+             color: #F6F1E7;
+             padding-top: 20%;
+             background-color: #000000;
+        }
+        .rute span{
+            color: #CFA763;
+        }
+        /* pesan */
+        .reservasi{
+             color: #F6F1E7;
+             padding-top: 20%;
+            background-color: #A6282E;
+        }
+        .reservasi span{
+            color: #CFA763;
+        }
+         .reservasi .btn-link:hover {
+            color: #CFA763 !important; /* Contoh: teal */
+        }
+        
+        /* armda */
+        .armada{
+             color: #F6F1E7;
+             padding-top: 20%;
+            background-color: #A6282E;
+        }
+        .armada span{
+            color: #CFA763;
+        }
+        /* kontak */
+        .kontak{
+             color: #F6F1E7;
+             padding-top: 20%;
+            background-color: #A6282E;
+        padding-top: 5%;
+
+        }
+        .kontak span{
+         color: #CFA763;
+        }
+       
+        /* footer */
+        .footer span{
+
+            color:#CFA763;
+            
+        }
+        .footer{
+             color: #F6F1E7;
+            padding-bottom:  5%;
+            background-color: #000000;
+        }
+
+        .elemen-gradien {
+         background-image: linear-gradient(to bottom, #A6282E 25%, #000000 50%);
+         
+        }
+         .elemen-gradien2 {
+         background-image: linear-gradient(to top, #A6282E 25%, #000000 50%);
+         
+        }
