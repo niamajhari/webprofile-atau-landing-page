@@ -41,11 +41,12 @@
             }
         .about .card-body{
             background-color: #CFA763;
-            color:#ffffff;
-        }
-        .about.i{
             color:#A6282E;
         }
+        .about.card-text{
+            color:#000000
+        }
+        
      
          /* RUte */
         .rute{
