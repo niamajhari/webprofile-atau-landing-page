@@ -25,6 +25,14 @@
        
            
         
+/* container bg*/
+.container .bg {
+  background-image: url('../asset/img/bg3.png'); /* Ganti dengan path gambar Anda */
+  background-size: cover; /* atau contain, tergantung kebutuhan */
+  background-repeat: no-repeat;
+  background-position: center;
+  
+}
 
       
            
@@ -112,3 +120,4 @@
          background-image: linear-gradient(to top, #A6282E 25%, #000000 50%);
          
         }
+
