@@ -72,6 +72,7 @@
         .armada{
              color: #F6F1E7;
              padding-top: 20%;
+             padding-bottom: 10%;
             background-color: #A6282E;
         }
         .armada span{
@@ -80,8 +81,8 @@
         /* kontak */
         .kontak{
              color: #F6F1E7;
-             padding-top: 20%;
-            background-color: #A6282E;
+             padding-top: 5%;
+            background-color: #000000;
        
 
         }
