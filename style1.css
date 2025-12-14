@@ -54,6 +54,26 @@
         .rute span{
             color: #CFA763;
         }
+        .rute a{
+            text-decoration:none;
+        }
+        .rute .tombol-saya1 {
+            background-color: #CFA763; /* Warna awal */
+            color: #000000;
+            padding: 10px 40px;
+            border: none;
+            border-radius: 10px;
+            cursor: pointer;
+            
+            /* Properti untuk transisi yang mulus */
+            transition: background-color 0.3s ease;
+            }
+
+            /* Gaya saat kursor diarahkan ke tombol */
+         .rute .tombol-saya1:hover {
+            background-color: #ffffff; /* Warna baru saat di-hover */
+            color: #CFA763;
+            }
         /* pesan */
         .reservasi{
              color: #F6F1E7;
@@ -64,10 +84,29 @@
             color: #CFA763;
         }
          .reservasi .btn-2sss:hover {
-            color: #CFA763 !important; /* Contoh: teal */
+           color: #CFA763 !important; /* Contoh: teal */
+            
         }
+        .reservasi .tombol-saya {
+            background-color: #CFA763; /* Warna awal */
+            color: #000000;
+            padding: 10px 60px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            /* Properti untuk transisi yang mulus */
+            transition: background-color 0.3s ease;
+            }
+
+            /* Gaya saat kursor diarahkan ke tombol */
+         .reservasi .tombol-saya:hover {
+            background-color: #000000; /* Warna baru saat di-hover */
+            color: #F6F1E7;
+            }
      
+       
         
+
         /* armda */
         .armada{
              color: #F6F1E7;
@@ -78,6 +117,27 @@
         .armada span{
             color: #CFA763;
         }
+        .armada .tombol-saya2 {
+            background-color: #CFA763; /* Warna awal */
+            color: #000000;
+            padding: 10px 40px;
+            border: none;
+            border-radius: 10px;
+            cursor: pointer;
+            
+            /* Properti untuk transisi yang mulus */
+            transition: background-color 0.3s ease;
+            }
+
+            /* Gaya saat kursor diarahkan ke tombol */
+         .armada .tombol-saya2:hover {
+            background-color: #ffffff; /* Warna baru saat di-hover */
+            color: #CFA763;
+            }
+        .armada a{
+            text-decoration:none;
+        }
+       
         /* kontak */
         .kontak{
              color: #F6F1E7;
@@ -111,4 +171,4 @@
          
         }
 
-
+       /*--------------------------------------------------------------
